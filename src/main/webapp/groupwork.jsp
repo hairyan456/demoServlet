@@ -138,8 +138,7 @@
 										</tr>
 									</thead>
 									<tbody>
-										<c:forEach items="${listProjects}" var="project"
-											varStatus="loop">
+										<c:forEach items="${listProjects}" var="project" varStatus="loop">
 											<tr>
 												<td>${loop.index + 1}</td>
 												<td>${project.name}

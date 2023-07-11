@@ -39,7 +39,7 @@
 					data-target=".navbar-collapse"> <i class="fa fa-bars"></i>
 				</a>
 				<div class="top-left-part">
-					<a class="logo" href='<c:url value="/index.html"></c:url>'> <b>
+					<a class="logo" href='<c:url value="/index.jsp"></c:url>'> <b>
 							<img
 							src='<c:url value="/plugins/images/pixeladmin-logo.png"></c:url>'
 							alt="home" />
@@ -83,7 +83,7 @@
         <div class="navbar-default sidebar" role="navigation">
 			<div class="sidebar-nav navbar-collapse slimscrollsidebar">
 				<ul class="nav" id="side-menu">
-					<li style="padding: 10px 0 0;"><a href='<c:url value="/index.html"></c:url>'
+					<li style="padding: 10px 0 0;"><a href='<c:url value="/index.jsp"></c:url>'
 						class="waves-effect"><i class="fa fa-clock-o fa-fw"
 							aria-hidden="true"></i><span class="hide-menu">Dashboard</span></a></li>
 					<li><a href='<c:url value="/user"></c:url>' class="waves-effect"><i
