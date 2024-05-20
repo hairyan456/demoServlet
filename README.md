@@ -12,3 +12,6 @@ The CRM system is onlyy an employee work management solution for the business.
 + ...
 
 # Video review: 
+
+# Steps to perform the project CRM_APP
+
